@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   we strive to provide excellent customer service and a wonderful shopping experience
   to our valued customers. We specialize in high end pieces to accompany our awesome basics!
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Entitled" # the subpath of your site, e.g. /blog
 url: "https://entitledlondon.github.io/Entitled/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # baseurl: "" # the subpath of your site, e.g. /blog
