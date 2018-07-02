@@ -4,7 +4,6 @@ layout: page
 feature_image: "../uploads/Entitled3.jpg"
 permalink: "./seasonal sales/"
 date: 2018-07-02 18:30:20 -0400
-published: false
 ---
 Here is some sample text
 
