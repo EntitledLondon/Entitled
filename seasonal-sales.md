@@ -8,5 +8,3 @@ date: 2018-07-02 18:30:20 -0400
 Here is some sample text
 
 Here is a sample picture:
-
-![seasonal clothing sales](/uploads/Entitled6.jpg "Mens tops")
