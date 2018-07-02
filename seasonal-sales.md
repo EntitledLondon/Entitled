@@ -2,7 +2,7 @@
 title: seasonal sales
 layout: page
 feature_image: "./uploads/Entitled6.jpg"
-permalink: "./seasonal sales/"
+permalink: "./seasonal sales"
 date: 2018-07-02 18:30:20 -0400
 ---
 Here is some sample text
