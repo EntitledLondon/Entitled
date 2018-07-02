@@ -19,8 +19,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   We provide high end clothing for both Men and Women. Located in London, Ontario
   we strive to provide excellent customer service and a wonderful shopping experience
   to our valued customers. We specialize in high end pieces to accompany our awesome basics!
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.entitledlondon.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://entitledlondon.github.io/Entitled/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://www.entitledlondon.ca" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: EntitledLondon
 github_username:  EntitledLondon
 
