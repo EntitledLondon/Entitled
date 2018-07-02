@@ -23,4 +23,5 @@ fields:
   hidden: false
   default: "./ThisShouldMatchTheTitle/"
 pages:
+- seasonal-sales.md
 - about.md
