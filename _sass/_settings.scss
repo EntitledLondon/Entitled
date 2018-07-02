@@ -1,0 +1,75 @@
+// Background colours
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #fafafa;
+$featureBackgroundColour: #f9fafa;
+$accentColour: #05bf85;
+
+// Text colours
+$headingColour: #242e2b;
+$bodyColour: #384743;
+//$linkColour: #05bf85;
+$linkColour: #000000;
+$hoverColour: #808080;
+$focusColour: #fa407a;
+$captionColour: #a8adac;
+$white: #ffffff;
+
+// Typography
+$bodytype: (
+  font-family: 'Georgia, serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"Merriweather", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+$monospacetype: (
+  font-family: 'Menlo, monospace',
+  regular: 400,
+  cap-height: 0.68
+);
+
+/* Share buttons */
+.sharebuttons {
+  margin: 0 auto 0 auto;
+}
+
+.sharebuttons ul {
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+.sharebuttons ul li {
+  display: inline;
+}
+
+.sharebuttons ul li a {
+  text-decoration: none;
+  background: none;
+}
+
+.sharebuttons ul li svg {
+  width: 40px;
+  height: 40px;
+}
+
+.sharebuttons .facebook svg {
+  fill: #3B599B;
+  text-decoration: none;
+}
+
+.sharebuttons .instagram svg {
+  fill: #E4405F;
+  text-decoration: none;
+}
+
+
+// Font import, if you're using a non-standard web font
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
