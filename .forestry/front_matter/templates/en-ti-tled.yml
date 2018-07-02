@@ -6,19 +6,19 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: page
 - name: title
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: about
 - name: feature_image
   label: Feature image
   type: text
   hidden: false
-  default: ''
+  default: "../uploads/richmond_row.jpg"
 - name: permalink
   label: Permalink
   type: text
   hidden: false
-  default: ''
+  default: "./about/"
