@@ -8,3 +8,5 @@ date: 2018-07-02 18:30:20 -0400
 Here is some sample text
 
 Here is a sample picture:
+
+![](/uploads/Entitled2 small.jpg)
