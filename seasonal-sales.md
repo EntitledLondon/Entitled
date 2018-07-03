@@ -1,12 +1,10 @@
 ---
-title: seasonal sales
+title: mens
 layout: page
 feature_image: "./uploads/Entitled6.jpg"
-permalink: "./seasonal sales"
+permalink: "./mens"
 date: 2018-07-02 18:30:20 -0400
 ---
-Here is some sample text
-
-Here is a sample picture:
+Check out our mens summer fashions
 
 ![Mens Clothing](./uploads/Entitled8 small.jpg "Mens")
