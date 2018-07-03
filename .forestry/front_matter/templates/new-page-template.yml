@@ -16,12 +16,12 @@ fields:
   label: Feature image
   type: text
   hidden: false
-  default: "../uploads/Entitled3.jpg"
+  default: "./uploads/Entitled3.jpg"
 - name: permalink
   label: Permalink
   type: text
   hidden: false
-  default: "./ThisShouldMatchTheTitle/"
+  default: "./ThisShouldMatchTheTitle"
 pages:
 - contact.md
 - seasonal-sales.md
