@@ -9,4 +9,4 @@ Here is some sample text
 
 Here is a sample picture:
 
-![](/uploads/Entitled1 small.jpg)
+![](./uploads/Entitled8 small.jpg)
