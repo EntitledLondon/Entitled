@@ -23,6 +23,5 @@ fields:
   hidden: false
   default: "./ThisShouldMatchTheTitle"
 pages:
-- contacts.md
 - seasonal-sales.md
 - about.md
