@@ -26,6 +26,7 @@ fields:
   description: The text field here SHOULD match the title field above. For example,
     if the title is "about" then this field must be "./about"
 pages:
+- categories.md
 - blog.md
 - seasonal-sales.md
 - about.md
