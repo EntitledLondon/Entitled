@@ -27,6 +27,5 @@ fields:
     if the title is "about" then this field must be "./about"
 pages:
 - categories.md
-- blog.md
 - seasonal-sales.md
 - about.md
