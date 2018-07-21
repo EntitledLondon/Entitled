@@ -31,5 +31,3 @@ fields:
   config:
     required: true
   default: "./blog"
-pages:
-- test.md
