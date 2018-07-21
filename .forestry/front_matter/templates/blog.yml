@@ -1,0 +1,33 @@
+---
+label: blog
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: title
+  name: title
+  default: blog
+  hidden: true
+  config:
+    required: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
+  default: blog
+- type: text
+  label: feature_image
+  name: feature_image
+  hidden: true
+  config:
+    required: true
+  default: "./uploads/Entitled5.jpg"
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+  config:
+    required: true
+  default: "./blog"
