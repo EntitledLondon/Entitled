@@ -21,7 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   to our valued customers. We specialize in high end pieces to accompany our awesome basics!
 
 baseurl: "/Entitled" # the subpath of your site, e.g. /blog
-url: "https://entitledlondon.github.io/Entitled/" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://entitledlondon.github.io/Entitled/" # the base hostname & protocol
+url: "http://localhost.com:4000/Entitled/" # the base hostname & protocol
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://www.entitledlondon.ca" # the base hostname & protocol for your site, e.g. http://example.com
@@ -47,7 +48,7 @@ plugins:
   - jekyll-remote-theme
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
+# The following items wilbul not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
 #   - Gemfile
