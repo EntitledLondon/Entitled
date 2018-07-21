@@ -25,6 +25,5 @@ fields:
   default: "./ThisShouldMatchTheTitle"
 pages:
 - blog.md
-- kaffe-brand-from-denmark.md
 - seasonal-sales.md
 - about.md
