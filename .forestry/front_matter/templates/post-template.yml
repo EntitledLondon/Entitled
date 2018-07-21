@@ -28,4 +28,5 @@ fields:
   description: "(Optional) Enter tags that describe the post, kind of like instagram
     hashtags (without the hash symbol) separated by spaces"
 pages:
+- _posts/sample-blog-post-title.md
 - _posts/2018-07-21-kaffe-brand-from-denmark.md
