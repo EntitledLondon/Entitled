@@ -31,3 +31,5 @@ fields:
   config:
     required: true
   default: "./blog"
+pages:
+- blog.md
