@@ -13,6 +13,8 @@ Find us at:
 
 742 Richmond St North, London Ontario, N6A 3H3
 
+{% google_map %}
+
 **Hours of Operation**
 
 Sunday     12:00pm-5:00pm
@@ -22,5 +24,3 @@ Wednesday  10:00am-6:00pm
 Thursday   10:00am-6:00pm
 Friday     10:00am-6:00pm
 Saturday   10:00am-6:00pm
-
-{% google_map %}
