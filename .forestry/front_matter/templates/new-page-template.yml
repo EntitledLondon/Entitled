@@ -12,7 +12,7 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: 'CHANGE ME: this will show on page and menu'
+  default: default
 - name: feature_image
   label: Feature image
   type: text
@@ -22,7 +22,9 @@ fields:
   label: Permalink
   type: text
   hidden: false
-  default: "./ThisShouldMatchTheTitle"
+  default: "./default"
+  description: The text field here SHOULD match the title field above. For example,
+    if the title is "about" then this field must be "./about"
 pages:
 - blog.md
 - seasonal-sales.md
