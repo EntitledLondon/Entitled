@@ -68,4 +68,8 @@ maps:
     google:
         api_key: AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE
 
+location:
+  latitude: 42.995028
+  longitude: -81.252833
+
 google_analytics: 'UA-120910293-1'
