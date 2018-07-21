@@ -1,0 +1,23 @@
+---
+label: post template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  description: A type of page layout
+  default: post
+  hidden: true
+- type: text
+  label: title
+  name: title
+  description: The title of the blog post
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  description: The date and time of the blog post
+  config:
+    required: true
+    date_format: MMM/DD/YYYY
