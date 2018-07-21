@@ -21,3 +21,5 @@ fields:
   config:
     required: true
     date_format: MMM/DD/YYYY
+pages:
+- _posts/kaffe-brand-from-denmark.md
