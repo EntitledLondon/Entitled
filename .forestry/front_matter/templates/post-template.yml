@@ -1,5 +1,5 @@
 ---
-label: post template
+label: post
 hide_body: false
 is_partial: false
 fields:
@@ -21,3 +21,9 @@ fields:
   config:
     required: true
     date_format: MMM/DD/YYYY
+    display_utc: false
+- type: text
+  name: categories
+  label: categories
+  description: "(Optional) Enter tags that describe the post, kind of like instagram
+    hashtags (without the hash symbol) separated by spaces"
