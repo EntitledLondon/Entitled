@@ -27,3 +27,5 @@ fields:
   label: categories
   description: "(Optional) Enter tags that describe the post, kind of like instagram
     hashtags (without the hash symbol) separated by spaces"
+pages:
+- _posts/kaffe-brand-from-denmark.md
