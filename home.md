@@ -5,6 +5,7 @@ feature_image: "./uploads/featurebannerclip.png"
 permalink: "./"
 
 ---
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE&callback=initMap" async defer></script>
 High quality pieces to accompany awesome basics
 
 Located in London's beautiful Richmond Row shopping district.
@@ -13,7 +14,7 @@ Find us at:
 
 742 Richmond St North, London Ontario, N6A 3H3
 
-{% google_map %}
+<div id="map"></div>
 
 **Hours of Operation**
 
