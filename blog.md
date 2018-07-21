@@ -1,7 +1,7 @@
 ---
 title: blog
 layout: blog
-feature_image: "./uploads/Entitled5 small.jpg"
+feature_image: "./uploads/Entitled5.jpg"
 permalink: "./blog"
 date: 2018-07-21 12:26:22 -0400
 
