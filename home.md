@@ -18,7 +18,8 @@ Find us at:
   height="450"
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE
-    &q=Space+Needle,Seattle+WA" allowfullscreen>
+    &center=42.9950000,-81.2528500
+    &zoom=16" allowfullscreen>
 </iframe>
 
 **Hours of Operation**
@@ -30,3 +31,6 @@ Wednesday  10:00am-6:00pm
 Thursday   10:00am-6:00pm
 Friday     10:00am-6:00pm
 Saturday   10:00am-6:00pm
+
+#Accurate coords for entitled
+#42.9950000,-81.2528500
