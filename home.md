@@ -22,6 +22,20 @@ Find us at:
     &zoom=16" allowfullscreen>
 </iframe>
 
+<TABLE BORDER=3 CELLSPACING=3 CELLPADDING=3>
+
+<TR>
+<TD ALIGN="center" COLSPAN="3">This Goes Across the Top!</TD>
+</TR>
+
+<TR>
+<TD ALIGN="center">Cell</TD>
+<TD ALIGN="center">Cell</TD>
+<TD ALIGN="center">Cell</TD>
+</TR>
+
+</TABLE>
+
 **Hours of Operation**
 
 Sunday     12:00pm-5:00pm
