@@ -19,22 +19,9 @@ Find us at:
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE
     &center=42.9950000,-81.2528500
-    &zoom=16" allowfullscreen>
+    &zoom=16" allowfullscreen
+    &q=En-ti-tled,+London,+Ontario>
 </iframe>
-
-<TABLE BORDER=3 CELLSPACING=3 CELLPADDING=3>
-
-<TR>
-<TD ALIGN="center" COLSPAN="3">This Goes Across the Top!</TD>
-</TR>
-
-<TR>
-<TD ALIGN="center">Cell</TD>
-<TD ALIGN="center">Cell</TD>
-<TD ALIGN="center">Cell</TD>
-</TR>
-
-</TABLE>
 
 **Hours of Operation**
 
