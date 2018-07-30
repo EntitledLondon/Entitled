@@ -5,8 +5,7 @@ feature_image: "./uploads/featurebannerclip.png"
 permalink: "./"
 
 ---
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE&callback=initMap" async defer></script>
-High quality pieces to accompany awesome basics
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE&callback=./assets/js/custom_scripts.js.initMap" async defer></script> High quality pieces to accompany awesome basics
 
 Located in London's beautiful Richmond Row shopping district.
 
