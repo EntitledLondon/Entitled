@@ -5,7 +5,7 @@ feature_image: "./uploads/featurebannerclip.png"
 permalink: "./"
 
 ---
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE&callback=./assets/js/custom_scripts.js.initMap" async defer></script> High quality pieces to accompany awesome basics
+High quality pieces to accompany awesome basics
 
 Located in London's beautiful Richmond Row shopping district.
 
@@ -13,7 +13,13 @@ Find us at:
 
 742 Richmond St North, London Ontario, N6A 3H3
 
-<div id="map"></div>
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDsAJ8wqvCJqpyAS6SHuDBg0kZ_bncoTBE
+    &q=Space+Needle,Seattle+WA" allowfullscreen>
+</iframe>
 
 **Hours of Operation**
 
